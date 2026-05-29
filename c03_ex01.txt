@@ -1,0 +1,3 @@
+III
+	01
+		Exiba três strings diferentes.
