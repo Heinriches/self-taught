@@ -1,0 +1,4 @@
+III
+	06
+		Escreva um programa com uma variável 'age' que receba um inteiro e 
+		exiba strings diferentes, dependendo de que inteiro 'age' receber.
