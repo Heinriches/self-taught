@@ -1,0 +1,6 @@
+III
+	03
+		Escreva um programa que exiba uma variável for menor ou igual 
+		a 10, outra mensagem se a variável for maior do que 10, mas menor 
+		ou igual a 25, e ainda outra mensagem se a variável for maior do 
+		que 25.
